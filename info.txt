@@ -1,0 +1,3 @@
+name,age,salary
+John Apia,25,25000
+Sam Adeloye,35,34500
